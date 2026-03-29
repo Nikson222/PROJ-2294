@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27b06b7b7b9d49e6af647515ad86fccd, type: 3}
+  m_Name: WallTileConfig
+  m_EditorClassIdentifier: 
+  TopWall: {fileID: 21300000, guid: a1579c0c80c62af40b2bfec666dae5c9, type: 3}
+  BottomWall: {fileID: 21300000, guid: fd78e28c3d727864f8e265808d504566, type: 3}
+  LeftWall: {fileID: 21300000, guid: 9d12fa1fa68d1af43b6fe3178eda2a6f, type: 3}
+  RightWall: {fileID: 21300000, guid: a482747aaf38e9f47a209adc3e05adf3, type: 3}
+  TopExit: {fileID: 21300000, guid: f1618280bc0867b4a89413dc65bddc58, type: 3}
+  BottomExit: {fileID: 21300000, guid: d2a34066a2930d042a4255bcb42b5bb7, type: 3}
+  LeftExit: {fileID: 21300000, guid: c56939d8ee1a2384f9234c8907afeae6, type: 3}
+  RightExit: {fileID: 21300000, guid: fd79e5e336283d646be51055af5b2ea2, type: 3}
+  CornerTL: {fileID: 21300000, guid: 600cbabf662dbfa4f98e2e90347f253b, type: 3}
+  CornerTR: {fileID: 21300000, guid: 10a447a72eb7790499474cd1ac417a73, type: 3}
+  CornerBL: {fileID: 21300000, guid: 798ce1f5a96eb9347a24f643336f491f, type: 3}
+  CornerBR: {fileID: 21300000, guid: dcc232218715499479d88fa0b59e8091, type: 3}
